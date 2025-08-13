@@ -1,0 +1,56 @@
+{
+  "name": "KP Car Detailing",
+  "short_name": "KP Detailing",
+  "description": "Book premium car detailing in Columbia, MO \u2014 interior & exterior. Driven by detail.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1220",
+  "theme_color": "#66ff7f",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}
